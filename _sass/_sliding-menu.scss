@@ -40,7 +40,7 @@
 	@include media($medium) {
 		text-align: left;
 	}
-	@include size(100% 100%);
+	@include size(50% 100%);
 	@include media($medium) {
 		@include size(50% 100%);
 	}
