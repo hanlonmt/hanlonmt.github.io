@@ -1,0 +1,35 @@
+# Site wide configuration
+
+title: the mth root
+description: A radical take on science and other things
+logo: logo120.png
+teaser: default400.png
+locale: en_US
+url: http://www.themthroot.com
+
+# Jekyll configuration
+
+sass:
+    sass_dir: _sass
+    style: compressed
+permalink: /:categories/:title/
+markdown: kramdown
+highlighter: pygments
+gems:
+  - jekyll-sitemap
+
+
+# Site owner
+owner: 
+  name: Molly Hanlon
+  email: themthroot@gmail.com
+  twitter: molslarity
+  google:
+    ad-client: 
+    ad-slot: 
+  bio: Graduate student, scientist, talker.
+  avatar: bio-photo.jpg
+disqus-shortname: themthroot
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

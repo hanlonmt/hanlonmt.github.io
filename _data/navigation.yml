@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: Home
+  url: /
+  excerpt: 
+  image: 
+  
+- title: About
+  url: /about/
+  excerpt: "A little bit about me and why I made this page."
+  image: bio-photo-2.jpg
+
+- title: Posts
+  url: /posts/
+  excerpt: "Writings about this, that, and the other things."
+  image:
+  
+- title: Other Goodies
+  url: /misc/
+  excerpt: "Other things I like, both on and off the Internet."
+  image: logobigger.png
