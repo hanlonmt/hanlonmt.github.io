@@ -8,14 +8,14 @@
 - title: About
   url: /about/
   excerpt: "A little bit about me and why I made this page."
-  image: bio-photo-2.jpg
+  image: bio-photo.jpg
 
 - title: Posts
   url: /posts/
   excerpt: "Writings about this, that, and the other things."
-  image:
+  image: logo70.png
   
 - title: Other Goodies
   url: /misc/
   excerpt: "Other things I like, both on and off the Internet."
-  image: logo70.png
+  image: bio-photo-2.jpg
