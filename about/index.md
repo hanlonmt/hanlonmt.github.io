@@ -15,3 +15,7 @@ Roots happen to be one of my favorite things, and my initials are MTH, so this s
 
 
 I am a graduate student in the [Plant Biology program at Penn State University](http://www.huck.psu.edu/content/graduate-programs/plant-biology). Specifically, I study root growth and behavior and variation and all sorts of things about roots ([more here](http://plantscience.psu.edu/directory/mth14)). When I'm not sciencing, I like to swim, go for bike rides, play soccer, and bake cookies. I actually like doing many more things than that, but we'll start there. More things that I like can be found on the "Other Goodies" page, where I'll keep a list of things that I dig, both on the internet and off. You can get in touch with me via [email](themthroot@gmail.com) or drop me a line on twitter ([@molslarity](http://twitter.com/molslarity)).
+
+
+----
+This website is as much of an outlet as it is an exercise in learning. I'm building it through [GitHub Pages](https://pages.github.com/) using [Jekyll](http://jekyllrb.com/).
