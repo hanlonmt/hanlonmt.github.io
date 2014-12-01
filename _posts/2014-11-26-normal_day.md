@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: archive2
 title: A Normal Day
 excerpt: "I do science from time to time. Here's what that means."
 tags: [daily, science, lab, experiment]
@@ -23,7 +23,7 @@ That's difficult to say, because there is no *normal* day. Today was a lab day; 
 	<video width="560" height="315" controls>
 	<source src="/images/mixermill.mp4" type="video/mp4">
 	</video>
-	<figcaption> The mixer mill. It means business. </figcaption>
+	<figcaption> <br>The mixer mill. It means business. <br></figcaption>
 </figure>
 <br>
 **1:00 PM:** Grab a quick lunch between centrifugation steps. In the protocol that I follow, I have some steps that take about 30 minutes, so I managed to squeeze in a quick lunch. Lunch time at this centre varies from 11:30 AM to 2 PM, so there's always someone to eat with in the lunch room. Today's conversations included: should English really be the language of science? Why does French have so many specific words? How does airline pricing work? And what does it really mean when something is too sweet? We have riveting conversations, as you can see.

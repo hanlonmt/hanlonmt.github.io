@@ -70,17 +70,14 @@ figcaption {
 	text-align: center;
 	clear: both;
 	@include media($large) {
-		position: absolute;
-		top: 1px;
-		right: (3 * $column + $gutter) * -1;
-		padding-top: 10px;
+		position: bottom;
+		padding-top: 4px;
 		padding-left: 0;
 		padding-right: 0;
-		width: (3 * $column);
 		text-align: left;
 		&:before {
 			content: '';
-			position: absolute;
+			position: bottom;
 			top: 0;
 			left: 0;
 			width: 50px;
