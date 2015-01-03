@@ -29,7 +29,7 @@ If we're only using our descriptors to project ourselves into the world, then we
 
 
 ### Identity
-All of this is an experiment in identity, to some extent. How we see ourselves and how others see us is one of the hallmarks of our movement through the world. How I project myself IRL may be slightly different from how I project myself in internet life (someone else who knows me in both realms would have to really answer this). As a graduate student, I'm working to build my professional identity: finding a research niche, publishing papers, networking at conferences, and building connections in the greater research web. The barriers between personal and professional life have dropped quite dramatically, with a lot of overlap between the two. Rather than just rambling about this, I decided to give it a but of a deeper look, using Twitter.
+All of this is an experiment in identity, to some extent. How we see ourselves and how others see us is one of the hallmarks of our movement through the world. How I project myself IRL may be slightly different from how I project myself in internet life (someone else who knows me in both realms would have to really answer this). As a graduate student, I'm working to build my professional identity: finding a research niche, publishing papers, networking at conferences, and building connections in the greater research web. The barriers between personal and professional life have dropped quite dramatically, with a lot of overlap between the two. Rather than just rambling about this, I decided to give it a bit of a deeper look, using Twitter.
 <br><br>
 All Twitter users have 160 characters to describe themselves and project who they are into the internet-sphere. My bio looks like this:
 
