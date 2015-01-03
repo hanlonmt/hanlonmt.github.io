@@ -71,7 +71,7 @@ The plant biology search group had 79 members, so words with a frequency greater
 	<img src="/images/twitter/search.png">
 </div>
 
-The Plant Science List from @Anne Osterrieder](https://twitter.com/AnneOsterrieder) has almost 300 members, 286 of whom have bios. I used a minimum frequency of 3.
+The Plant Science List from [@Anne Osterrieder](https://twitter.com/AnneOsterrieder) has almost 300 members, 286 of whom have bios. I used a minimum frequency of 3.
 
 <div id="wrapper" style="width:100%; text-align:center">
 	<img src="/images/twitter/list.png">
