@@ -34,7 +34,7 @@ All of this is an experiment in identity, to some extent. How we see ourselves a
 All Twitter users have 160 characters to describe themselves and project who they are into the internet-sphere. My bio looks like this:
 
 <div id="wrapper" style="width:100%; text-align:center">
-<img src="/images/Twitter/me.png">
+<img src="/images/Twitter/me.PNG">
 </div>
 
 It takes some of those indisputable descriptors and combines a bit of flavor to say "hey, this is me!"
