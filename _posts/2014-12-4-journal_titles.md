@@ -1,5 +1,5 @@
 ---
-layout: archive2
+layout: post
 title: What do we publish in plant biology?
 excerpt: "A first run in examining what was published this year"
 tags: [plant biology, science, publications, R, text mining]
@@ -8,7 +8,6 @@ image:
   feature: publish.jpg
   credit: Nan Rinella
   creditlink: http://www.nanrinella.com/2012/10/why-developing-a-plan-for-attending-a-writers-conference-is-the-2nd-step-to-success/
-  teaser: wordcloud.png
 ---
 
 I was reading articles the other day and began to wonder what we publish, where we publish it, and what it can tell us, so I started exploring some data.

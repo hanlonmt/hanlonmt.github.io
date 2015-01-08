@@ -1,5 +1,5 @@
 ---
-layout: archive2
+layout: post
 title: Who am I? Who are we? 
 excerpt: "An exploration of identity, via Twitter"
 tags: [plant biology, science, twitter, python, R, text mining]
@@ -8,7 +8,6 @@ image:
   feature: idenitity.jpg
   credit: Tara Hunt
   creditlink: http://tarahunt.com/2013/07/05/the-identity-scorecard/
-  teaser: twitterbird.jpg
 ---
 
 

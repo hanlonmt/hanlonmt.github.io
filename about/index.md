@@ -1,16 +1,16 @@
 ---
-layout: archive
+layout: page
 title: About this page
 modified: 2014-11-22
-comments: true
+comments: false
 image:
-  feature: head-image.png
+  feature: head-image2.png
 ---
 
-##### I wanted this page to be called "the m<sup>th</sup> degree", but that was already taken by a marketing firm. I went with "the m<sup>th</sup> root", which is pretty radical.  
+## I wanted this page to be called "the m<sup>th</sup> degree", but that was already taken by a marketing firm. I went with "the m<sup>th</sup> root", which is pretty radical.  
 Roots happen to be one of my favorite things, and my initials are MTH, so this site came to life. Most of my posts will relate to science (mostly plants!), education, and academia, but there will be a good bit of other stuff hidden in here as well. Though my living is science, my life is much more than science.
 
-## Who am I?
+# Who am I?
 <img style="float: left" src="/images/bio-photo.jpg" height="200" width="200" hspace="20">
 
 

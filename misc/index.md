@@ -1,10 +1,9 @@
 ---
-layout: media
+layout: page
 title: Other Goodies
 modified: 2014-07-31T13:23:02.362000-04:00
 excerpt: "Things I like, on and off the Internet."
 comments: true
-toc: true
 ---
 
 

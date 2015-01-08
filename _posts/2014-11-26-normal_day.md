@@ -1,12 +1,11 @@
 ---
-layout: archive2
+layout: post
 title: A Normal Day
 excerpt: "I do science from time to time. Here's what that means."
 tags: [daily, science, lab, experiment]
 comments: true
 image:
   feature: extractioncols.jpg
-  teaser: onetube.jpg
 ---
 
 According to some, we've been [doing science all our lives](http://www.wired.com/2011/09/little-kids-are-natural-scientists/). I like that idea, but I don't want to think about 6-year old me trying to do what I do on a day to day basis. So what does that mean? What do I do on a normal day?

@@ -1,10 +1,7 @@
-# Skinny Bones Gemfile
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem 'jekyll', '~> 2.4.0'
-gem 'jekyll-sitemap', '~> 0.6.1'
-gem 'sass'
-gem 'bourbon'
-gem 'neat'
+gem 'jekyll'
+gem 'coderay'
+gem 'sass', '3.4.5'
 gem 'octopress', '~> 3.0.0.rc.12'
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem 'jekyll-sitemap'

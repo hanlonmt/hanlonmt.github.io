@@ -1,3 +1,5 @@
 # A work in progress
 
-My website is slowly coming to life. More updates to come.
+I'm working to build my website with Jekyll on Github, and it's slowly coming along.
+
+Check out the progress: [the mth root](http://themthroot.com)
