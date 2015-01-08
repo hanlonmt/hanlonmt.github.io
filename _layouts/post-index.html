@@ -27,6 +27,16 @@
 </div><!-- /.entry-header -->
 
 <div id="main" role="main">
+<div id="main" role="main">
+    <header class="header-title">
+      <div class="header-title-wrap">
+        {% if page.link %}
+          <h1 class="entry-title"><i class="fa fa-bookmark permalink"></i> <a href="{{ page.link }}">{{ page.title }}</a></h1>
+        {% else %}
+          <h1 class="entry-title"><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
+        {% endif %}
+      </div><!-- /.header-title-wrap -->
+    </header>
   {{ content }}
 </div><!-- /#main -->
 
