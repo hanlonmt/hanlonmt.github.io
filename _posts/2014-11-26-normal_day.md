@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Normal Day
-excerpt: "I do science from time to time. Here's what that means."
+description: "I do science from time to time. Here's what that means."
 tags: [daily, science, lab, experiment]
 comments: true
 image:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who am I? Who are we? 
-excerpt: "An exploration of identity, via Twitter"
+description: "An exploration of identity, via Twitter"
 tags: [plant biology, science, twitter, python, R, text mining]
 comments: true
 image:

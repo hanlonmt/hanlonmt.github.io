@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What do we publish in plant biology?
-excerpt: "A first run in examining what was published this year"
+description: "A first run in examining what was published this year"
 tags: [plant biology, science, publications, R, text mining]
 comments: true
 image:
