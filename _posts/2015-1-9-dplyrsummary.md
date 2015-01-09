@@ -10,19 +10,6 @@ When I get data, one of the first things that I want to do is get a basic summar
 
 
 {% highlight text %}
-## Loading required package: plyr
-{% endhighlight %}
-
-
-
-{% highlight text %}
-##     var1   var2   out1   out2   out3
-## 1 factor factor factor factor factor
-{% endhighlight %}
-
-
-
-{% highlight text %}
 ##   var1 var2 out1 out2 out3
 ## 1    a high   15   23   13
 ## 2    a high   14   17    5
@@ -90,11 +77,7 @@ summarydata <- function (df,splittingfactors=NULL, convert_integers=F, calc_mean
   
   return(results)
 }
-{% endhighlight %}
 
-We can then run the code on our dataframe of choice and see the output
-
-{% highlight r %}
 sumd <- summarydata(data)
 sumd
 {% endhighlight %}

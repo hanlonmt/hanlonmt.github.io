@@ -8,7 +8,7 @@ comments: true
 
 When I get data, one of the first things that I want to do is get a basic summary and make some plots to look at things. I usually start with getting the mean, SD, and SE. A few years ago, this required using aggregate and some sort of apply function. Then, I discovered plyr and wrote a function of my own. It allowed you to get these data out and then generate graphs for them. I generated some random data, that looks like this: 
 
-````{r data, echo = FALSE}
+````{r data, echo = FALSE, message=FALSE}
 var1 <- c(rep("a",9), rep("b", 9), rep("c", 9))
 var2 <- rep(c(rep("high", 3), rep("med", 3), rep("low", 3)),3)
 out1 <- rnorm(27, mean = 50)
@@ -18,7 +18,6 @@ data <- as.data.frame(cbind(var1, var2, out1, out2, out3))
 
 if(!require(plyr)) { 
 install.packages("plyr"); require(plyr)} 
-colwise(class)(data)
 
 # right now, everything is a factor, convert out1, out2, and out 3 to numeric values
 data$out1<-as.numeric(data$out1)
@@ -85,10 +84,7 @@ summarydata <- function (df,splittingfactors=NULL, convert_integers=F, calc_mean
   
   return(results)
 }
-````
 
-We can then run the code on our dataframe of choice and see the output
-````{r test}
 sumd <- summarydata(data)
 sumd
 ````
@@ -111,3 +107,5 @@ summaryresults
 ````
 
 With four lines, I can now do the same with what I did before. Though I was quite fond of my old funciton (we had a good run together), this new method makes things much easier and faster.
+<br><br>
+I also wrote this post in R (Rmd) knit it using knitr, and then converted it and got it on my website using [these instructions](http://www.jonzelner.net/jekyll/knitr/r/2014/07/02/autogen-knitr/). It worked without a hitch and will be something that I'll do for all of my R-related postes from here forward.
