@@ -1,3 +1,4 @@
+setwd("C:/Users/Molly/Dropbox/website/hanlonmt.github.io/_knitr")
 KnitPost <- function(input, base.url = "/") {
     require(knitr)
     opts_knit$set(base.url = base.url)

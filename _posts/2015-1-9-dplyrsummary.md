@@ -146,4 +146,4 @@ summaryresults
 
 With four lines, I can now do the same with what I did before. Though I was quite fond of my old funciton (we had a good run together), this new method makes things much easier and faster.
 <br><br>
-I also wrote this post in R (Rmd) knit it using knitr, and then converted it and got it on my website using [these instructions](http://www.jonzelner.net/jekyll/knitr/r/2014/07/02/autogen-knitr/). It worked without a hitch and will be something that I'll do for all of my R-related postes from here forward.
+I also wrote this post in R (Rmd) knit it using knitr, and then converted it and got it on my website using [these instructions](http://www.jonzelner.net/jekyll/knitr/r/2014/07/02/autogen-knitr/). It worked without a hitch and will be something that I'll do for all of my R-related posts from here forward.
