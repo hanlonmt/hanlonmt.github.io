@@ -109,7 +109,7 @@ sumd
 
 ## dplyr
 
-That works fine, actually, but with bigger data frames, the speed isn't that good. I wanted to streamline the code. I'm using the [dplyr](http://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html) package instead of the plyr package, which has slightly different syntax, but still has some constraints. Here's what I've come up with(assuming you've checked the class of each variable that you want to work with):
+That works fine, actually, but with bigger data frames, the speed isn't that good. I wanted to streamline the code. I'm using the [dplyr](http://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html) package instead of the plyr package, which has slightly different syntax, and performs a bit differently. Here's what I've come up with(assuming you've checked the class of each variable that you want to work with):
 
 
 {% highlight r %}
