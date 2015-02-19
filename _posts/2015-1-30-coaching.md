@@ -5,7 +5,7 @@ description: "Being a swim coach has made me a better scientist in a number of w
 tags: [swimming, grad school]
 comments: true
 image:
-  feature: pool.png
+  feature: pool2.jpg
 ---
 I started coaching swimming when I was 16, mostly as a summer gig to make enough money so that I could drive around and hang out with my friends. I continued the job throughout the rest of high school and college to make a little extra money. I mostly kept it because I was already always at the pool, so it was the easiest job for me to have. Throughout college, I coached in the summer, leaving lab for a few hours each day to yell at children. It gave my days some additional structure and allowed me to do something different, *really different*, for a little bit each day. It wasn't until grad school that I realized how beneficial this was to my science and research.
 
