@@ -58,7 +58,7 @@ I often find myself in conversations where I have no idea what's happening. I di
 
 Google had no autocompletes for "plant biolgists are" or "plant scientists are," but botanists did have an entry: 
 <figure>
-	<img src="/images/botanists.png">
+	<img src="/images/botanists.PNG">
 </figure>
 <br>
 I don't really know how it happened, but I'll still tell everyone that I was a cool kid, even if I was always destined to become a weird plant biologist:
