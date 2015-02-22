@@ -7,19 +7,31 @@
 {% include head3.html %}
 </head>
 
-<body id="landing-page" {% if page.image.feature %}class="feature"{% endif %}>
+<body id="landing-page">
 
 {% include browser-upgrade.html %}
 {% include navigation.html %}
 
 
-<div id = "main" role = "main">
-<a href="{{site.url}}/about/"><img src="/images/button_about.png" style="float: left; width: 20%; margin-right: 2%; margin-bottom: 0.5em;" ></a>
-<a href="{{site.url}}/blog/"><img src="/images/button_blog.png" style="float: left; width: 20%; margin-right: 2%; margin-bottom: 0.5em;" ></a>
-<a href="{{site.url}}/Rposts/"><img src="/images/button_r.png" style="float: left; width: 20%; margin-right: 2%; margin-bottom: 0.5em;" ></a>
-<a href="{{site.url}}/misc/"><img src="/images/button_things.png" style="float: left; width: 20%; margin-right: 2%; margin-bottom: 0.5em;" ></a>
-<p style="clear: both;">
+<div id = "main">
+
+
+<div class="main">
+    <a href="{{site.url}}/about/" class= "post-img">
+      <img src="/images/button_about.png" onclick="location.href='{{site.url}}/about/'">
+    </a>
+    <a href="{{site.url}}/blog/" class= "post-img">
+      <img src="/images/button_blog.png">
+    </a>
+    <a href="{{site.url}}/Rposts/" class= "post-img">
+      <img src="/images/button_r.png">
+    </a>
+    <a href="{{site.url}}/misc/" class= "post-img">
+      <img src="/images/button_things.png">
+    </a>
 </div><!-- /#main -->
+
+
 
 
 <div class="footer-wrapper">

@@ -101,6 +101,7 @@ body {
 		color: $white;
 	}
 }
+
 .entry-image {
 	position: relative;
 	top: -50%; 
@@ -118,6 +119,16 @@ body {
 		height: 100%;
 		background-color: rgba($base-color,0.3);
 	}
+.entry-image-two {
+	position: relative;
+	top: -50%; 
+	left: 0%; 
+	width: 80%; 
+	height: 80%;
+	min-height: 400px;
+	overflow: hidden;
+	}
+	
 	img {
 		position: absolute; 
 		top: 0; 
@@ -174,21 +185,17 @@ body {
 		margin: 4px;
 		color: $white;
 		@include rounded(3px);
-		color: $white;
+		background-color: lighten($base-color,50);
 		span {
 			float: left;
 			padding: 2px 6px;
-		}
-		.term {
-			background-color: lighten($base-color,60);
-			@include border-radius(0,0,3px,3px);
 		}
 		.count {
 			background-color: lighten($base-color,40);
 			@include border-radius(3px,3px,0,0);
 		}
 		&:hover {
-			background-color: lighten($base-color,50);
+			background-color: lighten($base-color,40);
 		}
 	}
 	.entry-reading-time {
@@ -402,60 +409,72 @@ header .entry-meta {
 		@include border-radius(3px,0,0,3px); // round image corners
 	}
 }
-
 // Landing Page
-// --------------------------------------------------
 #landing-page {
 	#main {
 		margin: 40px 2px 20px 2px;
 		@media #{$medium} {
-			margin-left: 20px;
-			margin-right: 20px;
+			margin-left: auto;
+			margin-right: auto;
 		}
 		@media #{$large} {
-			max-width: 800px;
+			max-width: 1200px;
 			margin-top: 50px;
 			margin-left: auto;
 			margin-right: auto;
 		}
 	}
-	article {
-		background-color: $white;
-		box-shadow: 0 0 0 0, 0 6px 12px rgba($base-color,0.1);
-		@include rounded(3px);
-		margin-bottom: 20px;
-		padding: 25px 15px;
-		@media #{$medium} {
-			padding: 30px;
-		}
-		@media #{$large} {
-			margin-bottom: 30px;
-			padding: 50px 80px;
-		}
+	 .post-img{
+	position: relative;
+    z-index: 1;
+	padding-right: 8px;
+    display: inline-block;
+    overflow: hidden;
+    perspective: 1000px;
+    backface-visibility: hidden; // fix flicker on hover
+    img {
+      position: relative;
+      display: inline-block;
+      z-index: 1;
+      transition: all 0.3s;
+    }
+    &:before,
+    &:after {
+      position: absolute;
+      content: '';
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 100.5%;
+    }
+    &:before {
+      z-index: 2;
+      transition: all 0.3s;
+    }
+    &:after {
+      border: 10px solid $white;
+      opacity: 0;
+      z-index: 3;
+      transition: all 0.3s;
+    }
+    &:hover {
+      &:before {
+        background: rgba($white,0.7);
+      }
+      &:after {
+        opacity: 0.4;
+      }
+      img {
+        transform: scale(1.25);
+      }
+    }
 	}
-}
-.entry-image-index {
-	margin-top: -25px;
-	margin-left: -15px;
-	margin-right: -15px;
-	margin-bottom: 10px;
-	@media #{$medium} {
-		margin-top: -30px;
-		margin-left: -30px;
-		margin-right: -30px;
-		margin-bottom: 15px;
-	}
-	@media #{$large} {
-		margin-top: -50px;
-		margin-left: -80px;
-		margin-right: -80px;
-		margin-bottom: 20px;
-	}
-	img {
-		@include border-radius(3px,0,0,3px); // round image corners
-	}
-}
+  }
 
+
+  
 // Footer
 // --------------------------------------------------
 .footer-wrapper {
