@@ -1,11 +1,13 @@
 // Typography
 // --------------------------------------------------
-
-$base-font: 'Lato', Calibri, Arial, sans-serif;
-$heading-font: $base-font;
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans);
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic);
+$base-font: 'Droid Sans', sans-serif;
+$heading-font: 'Droid Serif', serif;
 $caption-font: $base-font;
 $code-font: monospace;
 $alt-font: serif;
+$alt-font2: 'Lora', serif;
 
 $doc-font-size: 16;
 $doc-line-height: 26;

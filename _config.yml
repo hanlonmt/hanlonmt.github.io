@@ -1,11 +1,11 @@
-title:            the mth root
+title:            Molly Hanlon
 description:      A radical take on science and other things
 disqus_shortname: themthroot
-reading_time:     true
+reading_time:     false
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: http://themthroot.com
+url: http://localhost:4000
 # Owner/author information
 owner:
   name:           Molly Hanlon
@@ -50,6 +50,7 @@ permalink:   /:categories/:title/
 
 # Amount of post to show on home page
 paginate: 5
+paginate_path: "/blog/page/:num"
 
 kramdown:
   auto_ids: true

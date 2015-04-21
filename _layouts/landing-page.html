@@ -8,27 +8,23 @@
 </head>
 
 <body id="landing-page">
-
+<link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700' rel='stylesheet' type='text/css'>
 {% include browser-upgrade.html %}
 {% include navigation.html %}
 
 
-<div id = "main">
 
 
 <div class="main">
-    <a href="{{site.url}}/about/" class= "post-img">
-      <img src="/images/button_about.png" onclick="location.href='{{site.url}}/about/'">
-    </a>
-    <a href="{{site.url}}/blog/" class= "post-img">
-      <img src="/images/button_blog.png">
-    </a>
-    <a href="{{site.url}}/Rposts/" class= "post-img">
-      <img src="/images/button_r.png">
-    </a>
-    <a href="{{site.url}}/misc/" class= "post-img">
-      <img src="/images/button_things.png">
-    </a>
+<div class="wrapper">
+	<a href="{{site.url}}/about/" class="purp">About Me</a>
+	<a href="{{site.url}}/cv/" class="yel">CV</a>
+	<a href="{{site.url}}/teaching/" class="purp">Teaching</a>
+	<a href="{{site.url}}/research/" class="yel">Research</a>
+	<a href="{{site.url}}/Rposts/" class="purp">R</a>
+	<a href="{{site.url}}/blog/" class="yel">Blog</a>
+
+</div>
 </div><!-- /#main -->
 
 

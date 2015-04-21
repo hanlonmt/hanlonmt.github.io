@@ -94,6 +94,7 @@ PLATFORMS
 DEPENDENCIES
   coderay
   jekyll
+  jekyll-paginate
   jekyll-sitemap
   octopress (~> 3.0.0.rc.12)
   sass (= 3.4.5)

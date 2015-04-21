@@ -10,7 +10,7 @@ image:
 
 I'm really trying to be a good mentor to the new students in the lab; teaching them where things are, introducing them to the right people, and letting them in on all of the little secrets that I wish someone had told me. Of course, we've had other new students in the lab between when I started and now, but both of these students are working on projects that follow-up on my work. I worked on the grants that fund them, and I feel obligated to help them out. One of the things that I'm doing is teaching them R, sharing all of my code, and letting them see what I do (both the good and the bad). It's a teaching step that I wish I had had: coding can be tough for a biologist to learn, but having someone else's code as a template to figure out what goes on is a great tool. 
 
-After our R lesson last week, I started to show them some "cool" things that you can do with R that aren't related to science, like looking at [publication trends](http://themthroot.com/journal_titles/) or [funding trends](http://themthroot.com/funding1/). I followed this by saying, "I swear I wasn't a nerd until I started grad school."
+After our R lesson last week, I started to show them some "cool" things that you can do with R that aren't related to science, like looking at [publication trends](http://mollyhanlon.com/journal_titles/) or [funding trends](http://mollyhanlon.com/funding1/). I followed this by saying, "I swear I wasn't a nerd until I started grad school."
 <br>
 
 They didn't believe me. That made me wonder, how did I end up here?
