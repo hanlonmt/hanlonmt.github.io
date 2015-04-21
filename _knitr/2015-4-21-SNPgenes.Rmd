@@ -1,0 +1,84 @@
+---
+layout: post
+title: Finding genes around a specific position in the rice genome
+description: This is something I do every day (almost). Here's how.
+tags: [R]
+comments: true
+---
+
+In my lab, we're working to further understand the results of the Genome Wide Association Studies (GWAS) that we've been completing on various rice root traits. One task that I do quite often is finding the identity of all of the genes around SNPs of interest. It's fairly simple (now), but definitely took an investment of my time to figure out. Here's how I do it:
+
+I'll simplify this, by starting with four SNPs that I'm interested in:
+
+```` {r data, message = FALSE, warning=FALSE}
+SNP.NAME <- c("SNP-2.26133435.", "SNP-4.19760929.", "SNP-12.11555551.")
+CHROMOSOME <- c(2, 4, 12)
+POSITION <- c(26139305, 19932894, 11558216)
+rice <- data.frame(SNP.NAME, CHROMOSOME, POSITION)
+rice
+````
+
+Now, the fun begins. First, I need to load in the packages that I need to access the rice genome. I already have bioconductor and the associated packages installed on my system. If you don't, see [these instructions](http://www.bioconductor.org/install/). I'll be getting both the rice genes and similar arabidopsis genes, so this code includes both. 
+
+
+````{r setup, message = FALSE, warning=FALSE}
+library(dplyr)
+
+#source("http://bioconductor.org/biocLite.R")
+#biocLite()
+library("GenomicRanges")
+library("biomaRt")
+# set the mart or the genome that you're using
+rice_mart <- useMart("plants_mart_26", dataset="osativa_eg_gene")
+arabi_mart <- useMart("plants_mart_26", dataset="athaliana_eg_gene")
+
+# I want all genes within 10kb of the SNP
+search.area <- 10000
+rice$start <- rice$POSITION - search.area ; rice$end <- rice$POSITION + search.area
+rice$start <- as.numeric(rice$start); rice$end <- as.numeric(rice$end)
+````
+
+That's it for setup. Now, I have to take the ranges that I made and convert them to a GRanges format. It's kind of like a bedfile, but it's the R/bioconductor format. After that, I use this object to select genes from the genomes and then match them back up.
+
+
+
+```` {r genes, message = FALSE, warning=FALSE}
+
+rice_gr <- makeGRangesFromDataFrame(rice,
+                                    keep.extra.columns=TRUE,
+                                    ignore.strand=TRUE,
+                                    seqinfo=NULL,
+                                    seqnames.field="CHROMOSOME",
+                                    start.field="start",
+                                    end.field="end",
+                                    starts.in.df.are.0based=FALSE)
+
+# get rice gene positions - only get protein coding genes and get arabidopsis genes. getBM is the call to biomart. I'm getting all of the genes from the genome for this.
+genes_r <- getBM(attributes = c("ensembl_gene_id","chromosome_name","start_position","end_position"), 
+                 filters = "biotype", values = "protein_coding", mart=rice_mart)
+genes_r2 <- getBM(attributes = c("ensembl_gene_id", "athaliana_eg_gene"), 
+                  filters = "ensembl_gene_id", values = list(genes_r$ensembl_gene_id), mart = rice_mart)
+genes_r <- left_join(genes_r, genes_r2)
+
+# convert to a GRanges object from these biomart outputs
+genes_r_gr <- makeGRangesFromDataFrame(genes_r,
+                                       keep.extra.columns=TRUE,
+                                       ignore.strand=TRUE,
+                                       seqinfo=NULL,
+                                       seqnames.field="chromosome_name",
+                                       start.field="start_position",
+                                       end.field="end_position",
+                                       starts.in.df.are.0based=FALSE)
+
+
+
+# find overlaps between biomart and my peaks of interest
+overlaps_r <- mergeByOverlaps(rice_gr, genes_r_gr, type="any")
+rice_genes <- as.data.frame(overlaps_r)
+rice_genes <- distinct(rice_genes)
+````
+
+In the end, I get a data frame object with these genes that I can use further down the line. I also generally clean it up, but this is the basic output. Tables are a little funky going from R/knitr to md/html for the webpage. The R output is this. I'll improve it in the future
+
+```{r datatable, message = FALSE, warning=FALSE}
+rice_genes

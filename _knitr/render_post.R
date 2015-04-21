@@ -1,4 +1,4 @@
-setwd("C:/Users/Molly/Dropbox/website/hanlonmt.github.io/_knitr")
+setwd("B:/Users/Molly/Programs/Dropbox/website/hanlonmt.github.io/_knitr")
 KnitPost <- function(input, base.url = "/") {
     require(knitr)
     opts_knit$set(base.url = base.url)
@@ -8,4 +8,4 @@ KnitPost <- function(input, base.url = "/") {
     render_jekyll()
     knit(input, envir = parent.frame())
 }
-KnitPost("2015-1-9-dplyrsummary.Rmd")
+KnitPost("2015-4-21-SNPgenes.Rmd")
