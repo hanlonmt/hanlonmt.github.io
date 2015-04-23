@@ -4,23 +4,20 @@ title: Other Goodies
 modified: 2015-01-09
 excerpt: "Things I like, on and off the Internet."
 comments: true
+toc: true
 ---
+{% include _toc.html %}
 
-
-Still in progress, though I'm updating it regularly. 
-
-This is a collection of things I like and want you to know about. I'm likely forgetting things and will be updating this as I discover new things! This should be somewhat organized and navigable by the pane at the left. I am an Android and Windows (holler, ThinkPad) user, so anything that is Apple-specific probably won't show up here.
+This is a collection of things I like and want you to know about. I'm likely forgetting things and will be updating this as I discover new favorites! This should be somewhat organized and navigable from the contents menu on the right. I am an Android and Windows (holler, ThinkPad) user, so anything that is Apple-specific probably won't show up here.
 
 # Apps
-I use many stock apps (Gmail, Maps, Calendar) and other standard apps (I'm looking at you, Facebook), but I'll use this space to highlight things that don't just come with your phone.
+I use many stock apps (Gmail/Inbox is growing on me, Maps, Calendar) and other standard apps (I'm looking at you, Facebook), but I'll use this space to highlight things that don't just come with your phone.
 <br><br>
 
 ## Listening
-- **[Stitcher](http://www.stitcher.com/):** My day-to-day podcast app. The "Listen Later" feature is great for making an on-the-go playlist and collecting news stories to listen to while I work or cook. I'm not *completely* in love with Stitcher, but it works for the most part and the tech support team has been helpful when I've had issues.
-- **[DoggCatcher](http://www.doggcatcher.com/):** I left DoggCatcher for Stitcher, but still go to it from time-to-time because Stitcher doesn't have everything. 
-- **[NPROne](http://www.npr.org/about/products/npr-one/):** My mind runs on NPR.
+- **[PocketCasts](http://www.shiftyjelly.com/pocketcasts):** I used to use [Sticher](https://www.stitcher.com/). I paid some money and switched to Pocket Casts. It's been a dream. Listening sync across devices (phone, tablet, computer), feeds are auto-updated, and the search feature works (something I strugged with for a long time on Sticher). It's great. If you're not totally in love with your podcast app, use this. I also used to use [DoggCatcher](http://www.doggcatcher.com/), but have gotten everything I've wanted in PocketCasts, so I've completely moved all of my listening there.
 - **[Google Music All Acccess](https://play.google.com/about/music/allaccess/#/):** I used Spotify and Pandora, but found the Spotify app to be buggy and was sick of hearing about the Free Business Cards I had won on Pandora. I switched to Google's platform and haven't looked back, as it has a huge library and has helped me discover some new music. I still go back to Pandora sometimes, but that is happening less and less.
-- **[Sonos](http://www.sonos.com/?r=1):** Not so much an app as it is a product (you need the speaker for the app to work), but it's the only way I listen to music, news, or podcasts when I'm at home.
+- **[Sonos](http://www.sonos.com/?r=1):** Not so much an app as it is a product (you need the speaker for the app to work), but it's the only way I listen to music, news, or podcasts when I'm at home. I'd love it if my pocketcasts and sonos could play nice, but this *should* be coming in the future.
 - **[OverDrive](http://www.overdrive.com/):** Coupled with my local library resources, I use this to listen to audiobooks when there's something I really want to *read* and don't have time to get my hands on the book. I've read quite a few books this way while working in the lab.
 
 ## News and Reading
@@ -30,7 +27,8 @@ I use many stock apps (Gmail, Maps, Calendar) and other standard apps (I'm looki
 - **[Instapaper](http://play.google.com/store/apps/details?id=com.instapaper.android):** Some people prefer Pocket, but Instapaper is my go-to for offline reading.
 
 ##Exercise
-- **[Endomondo](http://play.google.com/store/apps/details?id=com.endomondo.android.pro):** I used to have issues with other popular fitness tracking apps like RunKeeper or Map My Run picking up the GPS signal around my house. Endomondo was more consistent with picking up and sticking with a signal, so I switched to it about 4 years ago. With better phones and better technology, I'm sure any of those apps would work now, but I just keep using this. 
+- **[GarminConnect](https://connect.garmin.com/en-US/):** I splurged and bought myself a Garmin [ForeRunner620](https://buy.garmin.com/en-US/US/into-sports/running/forerunner-620/prod122785.html) and some [magnet-less sensors](http://www.dcrainmaker.com/2014/05/garmins-spd-cad-magnetless-sensors.html) for my bike. Pairing these up with an ANT+ sensor and Zwift made my indoor trainer rides a million times more enjoyable this past winter. It also automatically syncs with Strava.
+- **[Strava](https://www.strava.com):** I danced around between RunKeeper, Map My Run, and Endomondo, but finally gave into using Strava due to the Garmin integration. Though I haven't been running much, I'm looking forward to tracking my summer bike rides on there (and getting some local QOM crowns!). 
 - **[Nike Training Club](http://play.google.com/store/apps/details?id=com.nike.ntc):** I reach to NTC when I need some new workout ideas or just lack the motivation to put together a workout for myself. Lots of interesting content, though I often don't have the space or equipment required. I also wish it worked better with just audio instruction. I like this, I don't *love* it.
 - **[BodBot](http://play.google.com/store/apps/details?id=com.bodbot.www):** I started using this while trying to get back into some gym work while living in Sweden. Being someone who played organized sports my whole life, I sometimes have a hard time doing a workout when someone isn't telling me what to do. BodBot puts together personalized regimes and tracks your progress. I wish there were more exercises, especially ploymetric or bodyweight exercises, but the platform is still growing and I expect good things in the future.
 - **[Pocket Yoga](http://play.google.com/store/apps/details?id=com.rainfrog.yoga):** I'm not a huge yoga person, but I occasionally reach toward this if I feel like I need to do something to help me gain some mobility or just relax before bed. This is the best app I've come across to help start a habit.
@@ -45,41 +43,44 @@ I use many stock apps (Gmail, Maps, Calendar) and other standard apps (I'm looki
 # Podcasts
 I love podcasts, and am constantly increasing my library. I tend to triage my listening into shows I can't miss, those I try to catch, and those that I keep around to listen to when I have lots of time. I generally listen while doing lab work, while at the gym, or while on any sort of public transit. 
 
-##The Mainstays
+##Classics
 - **[Radiolab](http://www.radiolab.org/):** I think my podcast obsession started with Radiolab back before smartphones were ubiquitous. I had all of the episodes of Radiolab on my iPod and would listen to them repeatedly. Jad and Robert were the soundtrack to many of my experiments.  All of the episodes are good, but one of my personal favorites is [Lost & Found](http://www.radiolab.org/story/110079-lost-found/).
 - **[This American Life](http://www.thisamericanlife.org/):** I used to plan to run errand or do something of the sort so that I could be in my car during the airing of TAL on my local NPR station. Now, I don't have to do that, but I do try to catch it on the radio whenever I can. A favorite is tough, because the themes range from serious and tear-jerking to incredibly hilarious. I'm partial to Sarah Koenig's stories, including [Dr. Gilmer & Mr. Hyde](http://www.thisamericanlife.org/radio-archives/episode/492/dr-gilmer-and-mr-hyde), the episode about Penn State [#1 Party School](http://www.thisamericanlife.org/radio-archives/episode/396/1-party-school), and [The Seven Things You're Not Supposed to Talk About](http://www.thisamericanlife.org/radio-archives/episode/511/the-seven-things-youre-not-supposed-to-talk-about).
 - **[Serial](http://serialpodcast.org/):** If you don't know what this is, then you must be new to the Internet. Start at the beginning, listen to them all. Each week, my sister and I talk through the episode and change our stances on guilt or innocence. Don't fall into the [Serial sub-reddit](http://www.reddit.com/r/serialpodcast) black hole, though, unless you have hours to spare.
 - **[The Moth](http://themoth.org/):** Storytelling. It's funny, it's emotional, it's everything you want a story to be. The hour-long episodes are my favorite to pass time with in the lab. This episode, [I need to talk about Anne Frank](http://themoth.org/posts/stories/i-need-to-talk-about-anne-frank), comes to mind as a recent favorite of mine.
 - **[The Story Collider](http://storycollider.org/):** Stories about science, what more could you want! Some are heavier on science, some on laughs. I recently listened to [Who's the Donor?](http://storycollider.org/podcast/2014-10-09).
-- **[The Dinner Party Download](http://www.dinnerpartydownload.org/):** Food and pop-culture come together. I like to pick up on new music, and get some great etiquette advice.
 - **[Wait, Wait...Don't Tell Me](http://www.npr.org/programs/wait-wait-dont-tell-me/):** I often miss the news, and catch up on it here. It's entertaining and often the news stories aren't important. Perfect.
 - **[Fresh Air](http://www.npr.org/programs/fresh-air/):** Am I the only one who dreams of Terry Gross asking me questions? I also get a little bit sad when David Bianculli is sitting in for TG. 
-- **[Call Your Girlfried](http://callyourgirlfriend.com/):** Living abroad, or just far away from your best friends, makes you miss the kind of conversations that the hosts of this show have with each other. Listen to all of them.
+
+## Economics and Money
+- **[Freakonomics](http://freakonomics.com/radio/):** I usually learn something new, though sometimes I feel like I'm getting mansplained to a bit. 
+- **[APM: Marketplace](http://www.marketplace.org/marketplace-podcasts):** I don't pretend to understand economics, but I like to have some idea of what's happening with markets and money.
+- **[NPR: Intelligence Squared](http://www.npr.org/series/6263392/intelligence-squared-u-s):** I started listening to this when Hanna Rosin et al. debated "The End of Men." Now I tune in to learn both sides of arguments that I don't know a lot about. 
+- **[Planet Money](http://www.npr.org/blogs/money/):** Non-boring economics.
+
+
+##Food
+- **[The Dinner Party Download](http://www.dinnerpartydownload.org/):** Food and pop-culture come together. I like to pick up on new music, and get some great etiquette advice.
+- **[The Sporkful](http://www.sporkful.com/):** "It's not for foodies, it's for eaters" is the tagline for this podcast. Food is awesome. Listen.
+- **[Spilled Milk](http://www.spilledmilkpodcast.com/):** I started listening to this podcast after the green beans episode, because I have personal history with green beans (story coming, sometime). It's about food, and is even more casual than the Sporkful (another favorite of mine) and makes me hungry if I listen before lunch.
+- **[Gastropod](http://gastropod.com/):** This one is new to me, but I like it so far. It might advance in the rankings once I get through a few more episodes.
+
+##Tech
 - **[Start-Up](http://gimletmedia.com/show/startup/):** A show about a start-up company that will make podcasts. It's meta, but the stories are good as is the insight. 
 - **[Reply All](http://gimletmedia.com/show/reply-all/):** How could I not love a show about the internet? It's the first show made by Gimlet Media, which is the productino company that Start-Up is focusing on. 
 
+##Fun
+- **[Call Your Girlfried](http://callyourgirlfriend.com/):** Living abroad, or just far away from your best friends, makes you miss the kind of conversations that the hosts of this show have with each other. Listen to all of them.
+- **[Slate: Double X Gabfest](http://www.slate.com/articles/podcasts/doublex_gabfest.html):** Sometimes good, sometimes not. 
+- **[Pop Culture Happy Hour](http://www.npr.org/blogs/monkeysee/129472378/pop-culture-happy-hour/):** Their episode on [House Hunters International](http://www.npr.org/blogs/monkeysee/2014/10/07/354286887/pop-culture-happy-hour-small-batch-house-hunters-international) hit close to home because I love(d) House Hunters. 
 
 
 ##These are good too
-- **[Freakonomics](http://freakonomics.com/radio/):** I usually learn something new, though sometimes I feel like I'm getting mansplained to a bit. 
-- **[Weekends on All Things Considered](http://www.npr.org/series/129577422/weekends-on-all-things-considered):** A good way to catch up on things, but my love for the show has gone downhill since the move to the west coast.
-- **[APM: Marketplace](http://www.marketplace.org/marketplace-podcasts):** I don't pretend to understand economics, but I like to have some idea of what's happening with markets and money.
-- **[NPR: Intelligence Squared](http://www.npr.org/series/6263392/intelligence-squared-u-s):** I started listening to this when Hanna Rosin et al. debated "The End of Men." Now I tune in to learn both sides of arguments that I don't know a lot about. 
-- **[The Sporkful](http://www.sporkful.com/):** "It's not for foodies, it's for eaters" is the tagline for this podcast. Food is awesome. Listen.
-- **[Slate: Double X Gabfest](http://www.slate.com/articles/podcasts/doublex_gabfest.html):** Sometimes good, sometimes not. 
-- **[Planet Money](http://www.npr.org/blogs/money/):** Non-boring economics.
-- **[Pop Culture Happy Hour](http://www.npr.org/blogs/monkeysee/129472378/pop-culture-happy-hour/):** Their episode on [House Hunters International](http://www.npr.org/blogs/monkeysee/2014/10/07/354286887/pop-culture-happy-hour-small-batch-house-hunters-international) hit close to home because I love(d) House Hunters. 
 - **[How to do everything](http://howtodoeverything.org/):** Little tips on lots of things.
 - **[TED Radio Hour](http://www.npr.org/programs/ted-radio-hour/?showDate=2014-11-26):** Sometimes, TED is a bit pretentious. I still catch the Radio Hour from time to time to see if there are new ideas or perspectives on topics that I care about.
 - **[Science Friday](http://www.sciencefriday.com/):** I try to time experiments for Friday afternoon, so that I can turn on the radio and listen to Sci Fri. I catch it occasionally in it's podcast form, but, for some reason, enjoy it more live.
 - **[Slate: Working](http://www.slate.com/articles/podcasts/working.html):** An in-depth look into people's jobs. Sometimes good. The "Perfumer" episode really annoyed me because she claimed to be very precise in her measurements, but used disposable pipettes. C'mon, girl, get yo'self some eppendorfs ([and use them correctly](http://thatsnothowyoupipette.tumblr.com/)).
 - **[Sounds like an earful](http://soundslikeanearful.com/):** It's about ... stuff. I don't even know how to explain what this podcast is about, but each episode is thought-provoking and entertaining. 
-- **[Spilled Milk](http://www.spilledmilkpodcast.com/):** I started listening to this podcast after the green beans episode, because I have personal history with green beans (story coming, sometime). It's about food, and is even more casual than the Sporkful (another favorite of mine) and makes me hungry if I listen before lunch.
-
-
-
-##Sometimes, but not always
-- **[Gastropod](http://gastropod.com/):** This one is new to me, but I like it so far. It might advance in the rankings once I get through a few more episodes.
 - **[The New Yorker: The Political Scene](http://www.wnyc.org/shows/new-yorker-political-scene/):** For when I need some non-NPR, NPR-esque political talk.
 - **[Death, Sex, and Money](http://www.wnyc.org/shows/deathsexmoney/):** Discussions about things that we don't talk about (but should).
 - **[Why oh Why](http://wfmu.org/playlists/LK):** The website kind of sucks, but don't let that deter you. Much like Call Your Girlfriend, I feel like I'm with a friend when I listen to this. The PTDD episode is especially applicable to 20-something women.
@@ -94,7 +95,7 @@ Outside of the lab, my work is all of the computer. I'm constantly tweaking my w
 - **[Google Docs](https://docs.google.com):** I still have Microsoft Word, and use it, but have switched to paper and proposal writing in Google Docs. I was sick of the back and forth of a document when it's being worked on by multiple authors, leading to file names that are versioned and out of order. Merging changes never worked well for me. Writing in google docs allows multiple authors to edit at the same time, provides decent version control, and prevents the clogging of my inbox with versions that are being sent back and forth. There are a few places where if falls short of Word, namely in figure placement and image rendering when working with in-line figures. This will hopefully improve with an update, but I still have to go back to Word in my final version to add figures.
 - **[Notepad++](http://notepad-plus-plus.org/):** I'm writing this in Notepad++ and use it to assemble any code that I'll run or anything that I just want to write in plain text. I like th tabs and the options that it has to offer, with relatively few unnecessary thrills. 
 - **[GIMP](http://www.gimp.org/) and [Inkscape](https://inkscape.org/en/):** Open-source and free 'versions' of Photoshop and Illustrator. I never used the Adobe products much, so I have no problem with the free versions. Yes, they crash sometimes. Yes, it can be frustrating when things don't work. But I've always gotten everything I need to do done with these projects. I use Illustrator to make my scientific posters (and then I print them on fabric using [Spoonflower](http://help.spoonflower.com/customer/portal/articles/1605485-how-to-create-a-fabric-poster-from-a-powerpoint-or-pdf)).
-- **[ImageJ](http://imagej.nih.gov/ij/) (specifically, [Fiji](http://fiji.sc/Fiji):** Image analysis and such. I use it all the time. If you're a biologist who does any sort of imaging, I imagine that you do as well. I like using Fiji as my IJ interface as it adds on a few tools that biologists commonly use. 
+- **[ImageJ](http://imagej.nih.gov/ij/) (specifically, [Fiji](http://fiji.sc/Fiji)):** Image analysis and such. I use it all the time. If you're a biologist who does any sort of imaging, I imagine that you do as well. I like using Fiji as my IJ interface as it adds on a few tools that biologists commonly use. 
 - **[R](http://www.r-project.org/) and [RStudio](http://www.rstudio.com/):** This should probably be first on my list as I use it probably more frequently than anything else. I know there are Python devotees out there who would argue that R is garbage, but user statistics speak otherwise. I knew nothing about writing code before I started using R, and now I'm fairly comfortable with it and a few other languages. If I need to do something, I can figure out how to do it in R. Also, using R without Rstudio is just strange. I only do that when I need to update Rstudio from the console, which is quite easy.
 - Other things that I use that make things easier, both for work and life, include [Crashplan](http://www.code42.com/crashplan/) for backups, [Fences](http://www.stardock.com/products/fences/) for desktop organization, [LastPass](http://lastpass.com) to organize all of my passwords, and [Rainmeter](http://rainmeter.net/) for making my desktop look nicer.
 
@@ -113,6 +114,6 @@ I do most of my Internet browsing via my RSS reader. It's like the lazy person's
 
 # Real life things
 - Coffee made with the [Aeropress](http://www.aeropress.com/). So much easier to clean than a french press. So good. 
-- Notebooks with grids, not lines. I have no link to this. I don't know why I prefer notebooks with 'graph' as oppoed to lined paper, but I do. It may be that my first PI used these or that I find lab notebooks comforting or that I like to color in the little squares. I feel lost without my grid (don't get me started on the plain blank pages).
+- Notebooks with grids, not lines. I have no link to this. I don't know why I prefer notebooks with 'graph' as oppoed to lined paper, but I do. It may be that my first PI used these or that I find lab notebooks comforting or that I like to color in the little squares. I feel lost without my grid (don't get me started on the plain blank pages). I recently purchased a [RocketBook](http://igg.me/at/rocketbook/x/9062763) so that I can scan and organize my notes, and then erase the book in the microwave. I can't wait to get it!
 - Bicycles. I currently *only* have three, meaning that I have room for more in my collection. I ride a Giant Cypress of some sort that I got on the cheap on a daily basis, and have two roadies for fun times. My current prime stallion, a Cannondale Synapse Carbon, is a beauty, and when I'm away from home, I miss it.
 - Rain pants, possibly related to bicycles. Nothing is worse than wet pants, and rain pants are the way to go. Though only dads wear them in the US, everyone wears them in Sweden, which I think is the reason that it's a successful society.

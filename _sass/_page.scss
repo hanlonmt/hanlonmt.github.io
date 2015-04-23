@@ -514,6 +514,76 @@ header .entry-meta {
 	}
   }
 
+/* Table of contents */
+.toc {
+	font-size: 95%;
+	@media #{$large} {
+		display: block;
+		@include grid(12,2);
+		@include prefix(12,0.5);
+		@include suffix(12,0.5);
+		position: fixed;
+		top: 5.5em;
+		right: 0;
+		background-color: $white;
+	}
+	header {
+		background: $black;
+	}
+	h3 {
+		margin: 0;
+		padding: 5px 10px;
+		color: $white;
+		@include font-rem(16);
+		text-transform: uppercase;
+		&:hover {
+			cursor: pointer;
+		}
+	}
+	ul {
+		margin: 2px 0 0;
+		padding: 0;
+		line-height: 1;
+	}
+	li {
+		display: block;
+		margin: 0 0 1px 0;
+		padding: 0;
+		font-family: $heading-font;
+		list-style-type: none;
+		&:last-child {
+			border-bottom-width: 0;
+		}
+		a {
+			padding: 10px;
+			display: block;
+			color: $white;
+			text-decoration: none;
+			background: lighten($black, 10);
+			@include opacity(0.7);
+			@include transition(opacity 0.2s ease-in-out);
+			&:hover {
+				@include opacity(1);
+			}
+		}
+		ul {
+			margin: 1px 0 0;
+			li a {
+				padding-left: 20px;
+			}
+		}
+	}
+}
+
+/* TOC trigger for collapsing */
+#drawer {
+	max-height: 100%;
+	overflow: hidden;
+	&.js-hidden {
+		max-height: 0;
+	}
+}
+
 
   
 // Footer

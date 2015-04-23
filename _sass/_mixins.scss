@@ -313,3 +313,12 @@
   margin : 0; 
   overflow: visible; 
 }
+
+/* 
+   Opacity
+   example: @include opacity(0.5); // 50% opacity
+   ========================================================================== */
+
+@mixin opacity($opacity: 0.5) {
+  opacity: $opacity; 
+}
