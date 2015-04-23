@@ -7,7 +7,7 @@ comments: false
 
 # Meredith T. Hanlon  
 
-## Molly Hanlon
+### Molly Hanlon
 
 310 Tyson Building  
 University Park, PA 16801  
@@ -15,14 +15,14 @@ mth14@psu.edu
 
 ## Education  
 
-### Ph.D. Intercollege Graduate Program in Plant Biology, Huck Institute of Life Sciences, Pennsylvania State University  
+#### Ph.D. Intercollege Graduate Program in Plant Biology, Huck Institute of Life Sciences, Pennsylvania State University  
 Anticipated Graduation Date: Summer 2016  
-Advisor: Dr. Kathleen M. Brown  
+Adviser: Dr. Kathleen M. Brown  
 Dissertation Title: Genetic and Molecular control of root traits important for nutrient acquisition in rice and Arabidopsis  
 
-### B.S. Biochemistry, minor in Creative Writing, Allegheny College, Meadville, PA
+#### B.S. Biochemistry, minor in Creative Writing, Allegheny College, Meadville, PA
 Graduation Date: May 2009  
-Research Advisor: Dr. Catharina Coenen  
+Research Adviser: Dr. Catharina Coenen  
 Thesis: Roles for auxin and peroxidases in the formation of the arbuscular mycorrhizal symbiosis between *Glomus intraradices* and tomato  
 
 ## Publications
@@ -33,20 +33,20 @@ Burton AL, Johnson JM, Foerster JM, Hirsch CN, Buell CR, Hanlon MT, Kaeppler SM,
 
 Hanlon, M. T. and Coenen, C. (2011), Genetic evidence for auxin involvement in arbuscular mycorrhiza initiation. New Phytologist, 189: 701–709. 
 
- Onyeiwu, S., Pallant, E., and Hanlon, M. (2011). Sustainable and Unsustainable Agriculture in Ghana and Nigeria: 1960 – 2009. In Ecosystems and Sustainable Development (Y. Villacampa and C.A. Brebbia Eds.) WIT Press: 211 – 222.
+Onyeiwu, S., Pallant, E., and Hanlon, M. (2011). Sustainable and Unsustainable Agriculture in Ghana and Nigeria: 1960 – 2009. In Ecosystems and Sustainable Development (Y. Villacampa and C.A. Brebbia Eds.) WIT Press: 211 – 222.
 
 ## Presentations  
 
 ### Poster:
 
-### Buffered delivery of phosphorus drastically alters the phenotype and gene expression in Arabidopsis roots  
+#### Buffered delivery of phosphorus drastically alters the phenotype and gene expression in Arabidopsis roots  
 2014 American Society of Plant Biology Meeting. Portland, OR, July 2014.  
  
-###Elucidating control of lateral root plagiogravitropism in Arabidopsis  
+####Elucidating control of lateral root plagiogravitropism in Arabidopsis  
 2013 American Society of Plant Biology Meeting. Providence, RI, July 2013.  
-2013 Interdiciplinary Plant Group Symposium: Root Biology.University of Missiouri, Columbia, MO, May 2013.  
+2013 Interdisciplinary Plant Group Symposium: Root Biology.University of Missouri, Columbia, MO, May 2013.  
 
-###A role for auxin in the arbuscular mycorrhizal symbiosis  
+####A role for auxin in the arbuscular mycorrhizal symbiosis  
 17th Annual Plant Physiology Symposium at Pennsylvania State University, May 2009. 
 Sigma Xi Conference for Undergraduate Research, Pennsylvania State University, The Behrend College, April 2009.  
 
@@ -61,14 +61,18 @@ Sigma Xi Conference for Undergraduate Research, Pennsylvania State University, T
 - Harold M. State Research Fellowship (Allegheny College) - 2008
 
 ## Teaching  
-- Horticulture 402W: Plant Nutrition (2012 - present)
+- Horticulture 402W: Plant Nutrition (2012 - present), teaching assistant and guest lecturer
 - Plant Biology 514: Plant Ecophysiology (2012)
+- Informal instructor for R for data visualization, bioinformatics, and GWAS (2013 - present)
 - Biology 580: Plant Microbe Interactions (2007- 2008), Allegheny College
 - Biology 360: Plant Physiology (2008), Allegheny College
 - Chemistry 110: Introduction to Chemistry (2006), Allegheny College
 
-
-## Outreach and Mentoring  
+## Service, outreach, and mentoring
+- Plant Biology Program Student Representative (2012 - present)
+- Huck Institute Graduate Student Advisory Committee (2015 - present)
+- ASPB iConnect Team (2014 - present)
+- Faculty search committees (2009, geneticist and physiologist, Allegheny College)
 - Mentoring: multiple undergraduate students, both at Allegheny College and Penn State
 - Planting Science - 2012 - present
 - ASPB Easter Egg Roll outreach - 2015
@@ -78,10 +82,7 @@ Sigma Xi Conference for Undergraduate Research, Pennsylvania State University, T
 	- Penn State Graduate School Donor Outreach, “Roots, the hidden half,” Pittsburgh, PA, February 2012.
 	- Council for Undergraduate Research Posters on the Hill event, “Mechanisms of Plant-Microbe Interactions.” Washington, DC, May 2009.
 
-
-
 ## Other Preparation and Professional Organization Involvement
-
 - Visiting Scholar: Ume&aring; Plant Science Centre, Ume&aring;, Sweden. September 2014 - January 2015.
 	- Funding: NSF GROW Fellowship
 	- Project: The auxin metabolome of lateral roots
