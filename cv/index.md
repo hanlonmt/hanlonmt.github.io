@@ -77,6 +77,7 @@ Sigma Xi Conference for Undergraduate Research, Pennsylvania State University, T
 - Planting Science - 2012 - present
 - ASPB Easter Egg Roll outreach - 2015
 - Girl Scout workshops and Penn State Science Day events (2010 - present)
+- "This is what a scientist looks like" presentation to middle and high school students (2010 - present)
 - Community Poster Presentations:
 	- ARCS Scholar Event, “What’s up with roots?” Pittsburgh, PA, March 2013.
 	- Penn State Graduate School Donor Outreach, “Roots, the hidden half,” Pittsburgh, PA, February 2012.
