@@ -26,14 +26,14 @@ I use many stock apps (Gmail/Inbox is growing on me, Maps, Calendar) and other s
 - **[Digg](http://play.google.com/store/apps/details?id=com.diggreader):** I shed some tears when Google Reader died, but I like what I've put together at Digg, and it works great.
 - **[Instapaper](http://play.google.com/store/apps/details?id=com.instapaper.android):** Some people prefer Pocket, but Instapaper is my go-to for offline reading.
 
-##Exercise
+## Exercise
 - **[GarminConnect](https://connect.garmin.com/en-US/):** I splurged and bought myself a Garmin [ForeRunner620](https://buy.garmin.com/en-US/US/into-sports/running/forerunner-620/prod122785.html) and some [magnet-less sensors](http://www.dcrainmaker.com/2014/05/garmins-spd-cad-magnetless-sensors.html) for my bike. Pairing these up with an ANT+ sensor and Zwift made my indoor trainer rides a million times more enjoyable this past winter. It also automatically syncs with Strava.
 - **[Strava](https://www.strava.com):** I danced around between RunKeeper, Map My Run, and Endomondo, but finally gave into using Strava due to the Garmin integration. Though I haven't been running much, I'm looking forward to tracking my summer bike rides on there (and getting some local QOM crowns!).
 - **[Zwift](http://zwift.com/):** The only way I've been able to actually enjoy my indoor trainer rides. The winters are cold and dark in PA, so I spend a good bit of time riding inside. This makes it not just bearable, but fun.
 - **[Nike Training Club](http://play.google.com/store/apps/details?id=com.nike.ntc):** I reach to NTC when I need some new workout ideas or just lack the motivation to put together a workout for myself. Lots of interesting content, though I often don't have the space or equipment required. I also wish it worked better with just audio instruction. I like this, I don't *love* it.
 - **[Pocket Yoga](http://play.google.com/store/apps/details?id=com.rainfrog.yoga):** I'm not a huge yoga person, but I occasionally reach toward this if I feel like I need to do something to help me gain some mobility or just relax before bed. This is the best app I've come across to help start a habit.
 
-##Other
+## Other
 - **[Accuweather](http://play.google.com/store/apps/details?id=com.accuweather.paid.android):** I have to root for the hometown team when it comes to weather forecasts. I've used other apps in the past, but Accuweather has served me well.
 - **[Evernote](http://play.google.com/store/apps/details?id=com.evernote):** I either use this or [Google Keep](http://play.google.com/store/apps/details?id=com.google.android.keep) to quickly write things down, but I'm not a dedicated device note-taker. I usually use pen and paper, or I just remember things. If my memory starts to fail, maybe I'll become more of a devotee, but my system works fine for now.
 - **[TripIt](http://play.google.com/store/apps/details?id=com.tripit):** I got a free trial of the pro version with my credit card. I've since become dependent on it anytime I travel. If you don't have some sort of travel managing app, look into this.
@@ -44,7 +44,7 @@ I use many stock apps (Gmail/Inbox is growing on me, Maps, Calendar) and other s
 
 I love podcasts, and am constantly increasing my library. I tend to triage my listening into shows I can't miss, those I try to catch, and those that I keep around to listen to when I have lots of time. I generally listen while doing lab work, while at the gym, or while on any sort of public transit. Believe it or not, this list is incomplete, though I have most of my favorites here.
 
-##Classics
+## Classics
 - **[Radiolab](http://www.radiolab.org/):** I think my podcast obsession started with Radiolab back before smartphones were ubiquitous. I had all of the episodes of Radiolab on my iPod and would listen to them repeatedly. Jad and Robert were the soundtrack to many of my experiments.  All of the episodes are good, but one of my personal favorites is [Lost & Found](http://www.radiolab.org/story/110079-lost-found/).
 - **[This American Life](http://www.thisamericanlife.org/):** I used to plan to run errand or do something of the sort so that I could be in my car during the airing of TAL on my local NPR station. Now, I don't have to do that, but I do try to catch it on the radio whenever I can. A favorite is tough, because the themes range from serious and tear-jerking to incredibly hilarious. I'm partial to Sarah Koenig's stories, including [Dr. Gilmer & Mr. Hyde](http://www.thisamericanlife.org/radio-archives/episode/492/dr-gilmer-and-mr-hyde), the episode about Penn State [#1 Party School](http://www.thisamericanlife.org/radio-archives/episode/396/1-party-school), and [The Seven Things You're Not Supposed to Talk About](http://www.thisamericanlife.org/radio-archives/episode/511/the-seven-things-youre-not-supposed-to-talk-about). I also like [The Problem We All Live With](http://www.thisamericanlife.org/radio-archives/episode/562/the-problem-we-all-live-with) which discusses the extreme inequity in the American education system.
 - **[Serial](http://serialpodcast.org/):** If you don't know what this is, then you must be new to the Internet. Though the second season is quite different from the first, I still catch every episode.
@@ -53,13 +53,13 @@ I love podcasts, and am constantly increasing my library. I tend to triage my li
 - **[Wait, Wait...Don't Tell Me](http://www.npr.org/programs/wait-wait-dont-tell-me/):** I often miss the news, and catch up on it here. It's entertaining and often the news stories aren't important. Perfect.
 - **[Fresh Air](http://www.npr.org/programs/fresh-air/):** Am I the only one who dreams of Terry Gross asking me questions? I also get a little bit sad when David Bianculli is sitting in for TG. There are also so many cataloged episodes of Fresh Air that there's never a shortage of interviews to listen to.
 
-##Money
+## Money
 - **[Freakonomics](http://freakonomics.com/radio/):** I usually learn something new, though I don't love every episode. I do like this [episode about education](http://freakonomics.com/podcast/is-americas-education-problem-really-just-a-teacher-problem/).
 - **[APM: Marketplace](http://www.marketplace.org/marketplace-podcasts):** I don't pretend to understand economics, but I like to have some idea of what's happening with markets and money.
 - **[Planet Money](http://www.npr.org/blogs/money/):** You're like 'economics, this is going to be boring', except it isn't. Check out this episode on [The Tale of the Onion King](http://www.npr.org/sections/money/2015/10/14/448718171/episode-657-the-tale-of-the-onion-king).
 
 
-##Food
+## Food
 - **[The Dinner Party Download](http://www.dinnerpartydownload.org/):** Food and pop-culture come together. I like to pick up on new music, and get some great etiquette advice.
 - **[The Sporkful](http://www.sporkful.com/):** "It's not for foodies, it's for eaters" is the tagline for this podcast. Food is awesome. Listen.
 - **[Spilled Milk](http://www.spilledmilkpodcast.com/):** I started listening to this podcast after the green beans episode, because I have personal history with green beans (story coming, sometime). It's about food, and is even more casual than the Sporkful (another favorite of mine) and makes me hungry if I listen before lunch.
@@ -67,7 +67,7 @@ I love podcasts, and am constantly increasing my library. I tend to triage my li
 - **[Burnt Toast from Food52](http://food52.com/topics/burnt-toast-podcast):** I go to Food52 for recipes, why not for listening?
 - **[Special Sauce with Ed Levine](http://seriouseats.libsyn.com/podcast):** Serious Eats is my go-to for recipes and general kitchen advice. Though my scientific standpoint is usually quite different from Michael Pollan's, I really liked [this episode with him](http://seriouseats.libsyn.com/podcast/special-sauce-michael-pollan-on-cracker-jack-and-childhood-gardens).
 
-##Other things that I haven't put in specific categories:
+## Other things that I haven't put in specific categories:
 - **[Start-Up](http://gimletmedia.com/show/startup/):** A show about a start-up company that will make podcasts. It's meta, but the stories are good as is the insight. Season one was about Gimlet, the company that now makes quite a few podcasts. Start there and learn.
 - **[Reply All](http://gimletmedia.com/show/reply-all/):** How could I not love a show about the internet? It's the first show made by Gimlet Media (that isn't Start-Up). They discuss all sorts of things, including [online dating](https://gimletmedia.com/episode/27-the-fever/) and [weird internet office culture](https://gimletmedia.com/episode/29-the-takeover/).
 - **[Call Your Girlfried](http://callyourgirlfriend.com/):** Living abroad, or just far away from your best friends, makes you miss the kind of conversations that the hosts of this show have with each other. Listen to all of them. Catch the live shows. They're all my favorites.
@@ -97,7 +97,7 @@ I love podcasts, and am constantly increasing my library. I tend to triage my li
 - **[What's the Point?](http://espn.go.com/espnradio/podcast/index):** From FiveThirtyEight, this examines the numbers behind things.
 - **[Women of the Hour](https://soundcloud.com/womenofthehour):** I know Lena Dunham can be hit or miss, but I enjoyed every episode of this show.
 
-##Soccer
+## Soccer
 I'm a big fan of soccer, specifically women's soccer. These podcasts keep me informed about the game.
 - **[2 Drunk Fans](http://www.2drunkfans.com/):** It's just soccer, from the viewpoint of two US fans.
 - **[Mixxed Zone from Howler](http://whatahowler.podomatic.com/):** Women's soccer from Howler. Good interviews and content.
@@ -105,7 +105,7 @@ I'm a big fan of soccer, specifically women's soccer. These podcasts keep me inf
 - **[Women's World Football Show](http://www.wwfshow.com/):** Anything with Becky Sauerbrunn exclusives is worth listening to.
 - **[Men in Blazers](http://meninblazers.com/page/podcasts):** Not always, but the interview with [Megan Rapinoe](https://soundcloud.com/meninblazers/men-in-blazers-031116-megan-rapinoe-pod-special) is good to listen to if you're feeling down about your ACL recovery.
 
-##These are good too
+## These are good too
 - **[How to do everything](http://howtodoeverything.org/):** Little tips on lots of things.
 - **[TED Radio Hour](http://www.npr.org/programs/ted-radio-hour/?showDate=2014-11-26):** Sometimes, TED is a bit pretentious. I still catch the Radio Hour from time to time to see if there are new ideas or perspectives on topics that I care about.
 - **[Science Friday](http://www.sciencefriday.com/):** I try to time experiments for Friday afternoon, so that I can turn on the radio and listen to Sci Fri. I catch it occasionally in it's podcast form, but, for some reason, enjoy it more live.
