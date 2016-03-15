@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other Goodies
+title: Things I like
 modified: 2016-03-15
 excerpt: "Things I like, on and off the Internet."
 comments: true
