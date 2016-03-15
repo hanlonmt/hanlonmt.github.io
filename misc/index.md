@@ -41,6 +41,7 @@ I use many stock apps (Gmail/Inbox is growing on me, Maps, Calendar) and other s
 
 
 # Podcasts
+
 I love podcasts, and am constantly increasing my library. I tend to triage my listening into shows I can't miss, those I try to catch, and those that I keep around to listen to when I have lots of time. I generally listen while doing lab work, while at the gym, or while on any sort of public transit. Believe it or not, this list is incomplete, though I have most of my favorites here.
 
 ##Classics
