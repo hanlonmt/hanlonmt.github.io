@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Other Goodies
-modified: 2015-01-09
+modified: 2016-03-15
 excerpt: "Things I like, on and off the Internet."
 comments: true
 toc: true
 ---
 {% include _toc.html %}
 
-This is a collection of things I like and want you to know about. I'm likely forgetting things and will be updating this as I discover new favorites! This should be somewhat organized and navigable from the contents menu on the right. I am an Android and Windows (holler, ThinkPad) user, so anything that is Apple-specific probably won't show up here.
+This is a collection of things I like and want you to know about. I'm likely forgetting things and will be updating this as I discover new favorites! This should be somewhat organized and navigable from the contents menu on the right. I am an Android and Windows user, so anything that is Apple-specific probably won't show up here.
 
 # Apps
 I use many stock apps (Gmail/Inbox is growing on me, Maps, Calendar) and other standard apps (I'm looking at you, Facebook), but I'll use this space to highlight things that don't just come with your phone.
