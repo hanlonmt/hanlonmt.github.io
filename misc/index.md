@@ -67,7 +67,7 @@ I love podcasts, and am constantly increasing my library. I tend to triage my li
 - **[Burnt Toast from Food52](http://food52.com/topics/burnt-toast-podcast):** I go to Food52 for recipes, why not for listening?
 - **[Special Sauce with Ed Levine](http://seriouseats.libsyn.com/podcast):** Serious Eats is my go-to for recipes and general kitchen advice. Though my scientific standpoint is usually quite different from Michael Pollan's, I really liked [this episode with him](http://seriouseats.libsyn.com/podcast/special-sauce-michael-pollan-on-cracker-jack-and-childhood-gardens).
 
-## Other things that I haven't put in specific categories:
+## Other things that I haven't put in specific categories
 - **[Start-Up](http://gimletmedia.com/show/startup/):** A show about a start-up company that will make podcasts. It's meta, but the stories are good as is the insight. Season one was about Gimlet, the company that now makes quite a few podcasts. Start there and learn.
 - **[Reply All](http://gimletmedia.com/show/reply-all/):** How could I not love a show about the internet? It's the first show made by Gimlet Media (that isn't Start-Up). They discuss all sorts of things, including [online dating](https://gimletmedia.com/episode/27-the-fever/) and [weird internet office culture](https://gimletmedia.com/episode/29-the-takeover/).
 - **[Call Your Girlfried](http://callyourgirlfriend.com/):** Living abroad, or just far away from your best friends, makes you miss the kind of conversations that the hosts of this show have with each other. Listen to all of them. Catch the live shows. They're all my favorites.
