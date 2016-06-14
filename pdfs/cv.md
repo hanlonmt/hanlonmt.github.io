@@ -1,12 +1,3 @@
----
-layout: page
-title: CV
-modified: 2014-11-22
-comments: false
----
-
-[PDF version](http://mollyhanlon.com/pdfs/cv.pdf)
-
 # Meredith T. Hanlon  
 
 ### Molly Hanlon
