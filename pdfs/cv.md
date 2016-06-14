@@ -30,33 +30,33 @@ Onyeiwu, S., Pallant, E., and Hanlon, M. (2011). Sustainable and Unsustainable A
 
 ## Presentations  
 
-#### Oral:
+### Oral:
 
-##### Do *real* plants do that? Creating a realistic system to study phosphorus deficiency in Arabidopsis
+#### Do *real* plants do that? Creating a realistic system to study phosphorus deficiency in Arabidopsis
 - 2016 Mid-Atlantic Meeting of the American Society of Plant Biologists. Swarthmore, PA, April 9, 2016.
   - **Marsho Award for Best Oral Presentation by a graduate student or post-doc**
 
-##### Understanding rice root hair control using GWAS
+#### Understanding rice root hair control using GWAS
 - Penn State Plant Biology seminar series, Feburary 22, 2016.
 
-#### Poster:
+### Poster:
 
-##### 	Buffered delivery of phosphorus drastically affects Arabidopsis growth responses to low phosphorus  
+#### 	Buffered delivery of phosphorus drastically affects Arabidopsis growth responses to low phosphorus  
 - International Workshop on Plant Membrane Biology. Annapolis, MD, July 5-10, 2016.
   - **Excellent Poster Award**
 
-##### Genome wide association studies of rice (*Oryza sativa*) root hairs
+#### Genome wide association studies of rice (*Oryza sativa*) root hairs
 - 2015 American Society of Plant Biology Meeting. Minneapolis, MN, July 2016.
 - 20th Penn State Plant Biology Symposium. Penn State University, May, 2015.
 
-##### Buffered delivery of phosphorus drastically alters the phenotype and gene expression in Arabidopsis roots  
+#### Buffered delivery of phosphorus drastically alters the phenotype and gene expression in Arabidopsis roots  
 - 2014 American Society of Plant Biology Meeting. Portland, OR, July 2014.  
 
-##### Elucidating control of lateral root plagiogravitropism in Arabidopsis  
+#### Elucidating control of lateral root plagiogravitropism in Arabidopsis  
 - 2013 American Society of Plant Biology Meeting. Providence, RI, July 2013.  
 - 2013 Interdisciplinary Plant Group Symposium: Root Biology. University of Missouri, Columbia, MO, May 2013.  
 
-##### A role for auxin in the arbuscular mycorrhizal symbiosis  
+#### A role for auxin in the arbuscular mycorrhizal symbiosis  
 - 17th Annual Plant Physiology Symposium at Pennsylvania State University, May 2009.
 - Sigma Xi Conference for Undergraduate Research, Pennsylvania State University, The Behrend College, April 2009.  
 
@@ -83,12 +83,12 @@ Onyeiwu, S., Pallant, E., and Hanlon, M. (2011). Sustainable and Unsustainable A
 - Organizer of Farmer's Market educational outreach program (2016)
 - Student organizer, Penn State plant biology symposium (2015)
 - Plant Biology Program Student Representative (2012 - present)
-- Huck Institute Graduate Student Advisory Committee (2015 - present)
-- Managing editor, Huck Graduate Student Advisory Committee blog
+- [Huck Institute Graduate Student Advisory Committee](https://www.huck.psu.edu/content/graduate-programs/career_professional_development/graduate_student_advisor_committee) (2015 - present)
+- Managing editor, Huck Graduate Student Advisory Committee blog, [the BRIDGE](http://sites.psu.edu/bridge/)
 - ASPB iConnect Team (2014 - present)
 - Faculty search committees (2009, geneticist and physiologist, Allegheny College)
 - Mentoring: multiple undergraduate students, both at Allegheny College and Penn State
-- Planting Science - 2012 - present
+- [Planting Science](http://www.plantingscience.org/) - 2012 - present
 - ASPB Easter Egg Roll outreach - 2015 & 2016
 - Girl Scout workshops and Penn State Science Day events (2010 - 2012)
 - "This is what a scientist looks like" presentation to middle and high school students (2010 - present)
