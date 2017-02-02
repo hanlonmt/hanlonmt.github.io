@@ -4,7 +4,7 @@
 ### Molly Hanlon
 
 310 Tyson Building  
-University Park, PA 16801  
+University Park, PA 16802  
 mth14@psu.edu
 
 ## Education
@@ -45,6 +45,7 @@ Onyeiwu, S., Pallant, E., and Hanlon, M. (2011). Sustainable and Unsustainable A
 
 - Understanding rice root hair control using GWAS  
     Penn State Plant Biology seminar series, Feburary 22, 2016.
+
 
 ### Poster:
 
