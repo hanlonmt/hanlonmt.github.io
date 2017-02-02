@@ -44,9 +44,10 @@ Onyeiwu, S., Pallant, E., and Hanlon, M. (2011). Sustainable and Unsustainable A
 #### 	Buffered delivery of phosphorus drastically affects Arabidopsis growth responses to low phosphorus  
 - International Workshop on Plant Membrane Biology. Annapolis, MD, July 5-10, 2016.
   - **Excellent Poster Award**
+- American Society of Plant Biology Meeting. Austin, TX, July 2016.
 
 #### Genome wide association studies of rice (*Oryza sativa*) root hairs
-- 2015 American Society of Plant Biology Meeting. Minneapolis, MN, July 2016.
+- 2015 American Society of Plant Biology Meeting. Minneapolis, MN, July 2015.
 - 20th Penn State Plant Biology Symposium. Penn State University, May, 2015.
 
 #### Buffered delivery of phosphorus drastically alters the phenotype and gene expression in Arabidopsis roots  
