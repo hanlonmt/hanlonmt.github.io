@@ -9,7 +9,7 @@ mth14@psu.edu
 ## Education  
 
 #### Ph.D. Intercollege Graduate Program in Plant Biology, Huck Institute of Life Sciences, Pennsylvania State University  
-Anticipated Graduation Date: Fall 2016  
+Anticipated Graduation Date: Spring 2017  
 Adviser: Dr. Kathleen M. Brown  
 Dissertation Title: Genetic and Molecular control of root traits important for nutrient acquisition in rice and Arabidopsis  
 
@@ -28,13 +28,19 @@ Hanlon, M. T. and Coenen, C. (2011), Genetic evidence for auxin involvement in a
 
 Onyeiwu, S., Pallant, E., and Hanlon, M. (2011). Sustainable and Unsustainable Agriculture in Ghana and Nigeria: 1960 – 2009. In Ecosystems and Sustainable Development (Y. Villacampa and C.A. Brebbia Eds.) WIT Press: 211 – 222.
 
-## Presentations  
+## Presentations and talks
 
 ### Oral:
 
 #### Do *real* plants do that? Creating a realistic system to study phosphorus deficiency in Arabidopsis
 - 2016 Mid-Atlantic Meeting of the American Society of Plant Biologists. Swarthmore, PA, April 9, 2016.
   - **Marsho Award for Best Oral Presentation by a graduate student or post-doc**
+
+#### Using a root phene-based approach to feed and fuel the world
+- Juniata College Biology department seminar series, Huntingdon, PA, November 21, 2016
+
+#### Harnessing diversity to feed the world: using genome wide association studies to improve the rice root system
+- Allegheny College Biology department seminar series, Meadville, PA, September 24, 2015
 
 #### Understanding rice root hair control using GWAS
 - Penn State Plant Biology seminar series, Feburary 22, 2016.
@@ -75,24 +81,25 @@ Onyeiwu, S., Pallant, E., and Hanlon, M. (2011). Sustainable and Unsustainable A
 - AgEco 134: Sustainable Agriculture, Science, and Policy (2015), teaching assistant.
 - Horticulture 402W: Plant Nutrition (2012 - 2014), teaching assistant and guest lecturer
 - Plant Biology 514: Plant Ecophysiology (2012)
-- Informal instructor for R for data visualization, bioinformatics, and GWAS (2013 - present)
 - Biology 580: Plant Microbe Interactions (2007- 2008), Allegheny College
 - Biology 360: Plant Physiology (2008), Allegheny College
 - Chemistry 110: Introduction to Chemistry (2006), Allegheny College
 
 ## Service, outreach, and mentoring
-- Organizer of Farmer's Market educational outreach program (2016)
+- Steering Committee, Plantae - the online hub for plant science (2016-present)
+- Organizer of "Non-academic careers in plant biology" workshop at the American Society of Plant Biology meeting 2015
+- Organizer of monthly State College Farmer's Market educational outreach program (2016)
 - Student organizer, Penn State plant biology symposium (2015)
 - Plant Biology Program Student Representative (2012 - present)
-- [Huck Institute Graduate Student Advisory Committee](https://www.huck.psu.edu/content/graduate-programs/career_professional_development/graduate_student_advisor_committee) (2015 - present)
+- [Huck Institute Graduate Student Advisory Committee](https://www.huck.psu.edu/content/graduate-programs/career_professional_development/graduate_student_advisor_committee) (2015 - 2016)
 - Managing editor, Huck Graduate Student Advisory Committee blog, [the BRIDGE](http://sites.psu.edu/bridge/)
-- ASPB iConnect Team (2014 - present)
 - Faculty search committees (2009, geneticist and physiologist, Allegheny College)
 - Mentoring: multiple undergraduate students, both at Allegheny College and Penn State
 - [Planting Science](http://www.plantingscience.org/) - 2012 - present
 - ASPB Easter Egg Roll outreach - 2015 & 2016
 - Girl Scout workshops and Penn State Science Day events (2010 - 2012)
 - "This is what a scientist looks like" presentation to middle and high school students (2010 - present)
+- "The past, present, and future of genetic modifications" presentation to High School students (2016)
 - Community Poster Presentations:
 	- ARCS Scholar Event, “What’s up with roots?” Pittsburgh, PA, March 2013.
 	- Penn State Graduate School Donor Outreach, “Roots, the hidden half,” Pittsburgh, PA, February 2012.
@@ -117,3 +124,4 @@ Onyeiwu, S., Pallant, E., and Hanlon, M. (2011). Sustainable and Unsustainable A
 
 
 - Member: American Society of Plant Biologists
+- Reviewer: Scientific Reports
