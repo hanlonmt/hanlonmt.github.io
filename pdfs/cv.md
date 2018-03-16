@@ -1,18 +1,25 @@
 
-# Meredith T. Hanlon
+# Meredith T. Hanlon  
 
 ### Molly Hanlon
 
-310 Tyson Building  
+315 Tyson Building  
 University Park, PA 16802  
 mth14@psu.edu
 
-## Education
+## Professional Experience
+
+#### Postdoctoral Scholar and Project Coordinator in Department of Plant Science
+Pennsylvania State University
+Adviser: Dr. Jonathan Lynch
+Project: DEEPER: An integrated phenotyping platform for deeper roots
+
+## Education  
 
 #### Ph.D. Intercollege Graduate Program in Plant Biology, Huck Institute of Life Sciences, Pennsylvania State University
-Anticipated Graduation Date: Spring 2017  
+Graduation Date: December 2017
 Adviser: Dr. Kathleen M. Brown  
-Dissertation Title: Genetic and Molecular control of root traits important for nutrient acquisition in rice and Arabidopsis
+Dissertation Title: New perspectives on conventional ideas about root system architecture and morphology
 
 #### B.S. Biochemistry, minor in Creative Writing, Allegheny College, Meadville, PA
 Graduation Date: May 2009  
@@ -20,6 +27,8 @@ Research Adviser: Dr. Catharina Coenen
 Thesis: Roles for auxin and peroxidases in the formation of the arbuscular mycorrhizal symbiosis between *Glomus intraradices* and tomato
 
 ## Publications
+
+Hanlon MT, Ray S, Saengwilai P, Luthe D, Lynch JP, Brown KM (2018) Buffered delivery of phosphate to Arabidopsis alters responses to low phosphate. Journal of Experimental Botany, doi: 10.1093/jxb/erx454 https://doi.org/10.1093/jxb/erx454
 
 Burton AL, Johnson J, Foerster J, Hanlon MT, Kaeppler SM, Lynch JP, Brown KM (2014) QTL mapping and phenotypic variation of root anatomical traits in maize (*Zea mays L.*). Theor Appl Genet. doi: 10.1007/s00122-014-2414-8
 
@@ -88,13 +97,12 @@ Onyeiwu, S., Pallant, E., and Hanlon, M. (2011). Sustainable and Unsustainable A
 - Chemistry 110: Introduction to Chemistry (2006), Allegheny College
 
 ## Service, outreach, and mentoring
-- Steering Committee, Plantae - the online hub for plant science (2016-present)
+- Steering Committee, Plantae - the online hub for plant science (2016-2017)
 - Organizer of "Non-academic careers in plant biology" workshop at the American Society of Plant Biology meeting 2015
 - Organizer of monthly State College Farmer's Market educational outreach program (2016)
 - Student organizer, Penn State plant biology symposium (2015)
-- Plant Biology Program Student Representative (2012 - present)
+- Plant Biology Program Student Representative (2012 - 2017)
 - [Huck Institute Graduate Student Advisory Committee](https://www.huck.psu.edu/content/graduate-programs/career_professional_development/graduate_student_advisor_committee) (2015 - 2016)
-- Managing editor, Huck Graduate Student Advisory Committee blog, [the BRIDGE](http://sites.psu.edu/bridge/)
 - Faculty search committees (2009, geneticist and physiologist, Allegheny College)
 - Mentoring: multiple undergraduate students, both at Allegheny College and Penn State
 - [Planting Science](http://www.plantingscience.org/) - 2012 - present
@@ -126,4 +134,4 @@ Onyeiwu, S., Pallant, E., and Hanlon, M. (2011). Sustainable and Unsustainable A
 
 
 - Member: American Society of Plant Biologists
-- Reviewer: Scientific Reports
+- Reviewer: Scientific Reports, Journal of Experimental Botany, Plant Physiology, Crop and Soil
